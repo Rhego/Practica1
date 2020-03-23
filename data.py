@@ -31,6 +31,3 @@ if type(salida) == list:
 else:
     print(salida)      
 
-#Prueba commit2
-#test
-#test git VSasdasd
